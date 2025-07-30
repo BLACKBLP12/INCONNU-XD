@@ -7,7 +7,7 @@
     "owner-verification": "xinconnuboydawens@gmail.com",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID":INCONNU~XD~iIkGUA7Z#zmPiwAqVVhnCi63iwa8d_eiB4o2DMAyD9OuRcriv_9k
         "description": "Put your SESSION_ID here.get session id from here, https://inconnu-boy-tech-bot.onrender.com/pair",
         "required": true,
         "value":"add your session"
@@ -34,7 +34,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554488138425"
+      "value": "50935723383"
 
     }, 
 
